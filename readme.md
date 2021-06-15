@@ -3,11 +3,6 @@ Crea un nuevo proyecto angular-binding. Con 3 componentes:
 
 home: tendra un enlace a cada uno de los otros dos componentes
 interpolacion: donde se resolverán los ejercicios de interpolación
-binding: donde se resolverán los ejercicios de binding. tip: has de implementar routing.Iteración 1
-Crea un nuevo proyecto angular-binding. Con 3 componentes:
-
-home: tendra un enlace a cada uno de los otros dos componentes
-interpolacion: donde se resolverán los ejercicios de interpolación
 binding: donde se resolverán los ejercicios de binding. tip: has de implementar routing.
 
 # Interpolación y Binding
